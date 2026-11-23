@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body, html{
+    background: #0A1A32;
+    background-color: #0A1A32;
+}
+main{
+    margin-top: 60px;
+    margin-right: 92px;
+    margin-left: 200px;
+}
+header{
+    height: 56px;
+}
+
+.logo{
+    height: auto;
+    width: 228px;
+}
+nav{
+    display: flex;
+    display: inherit;
+    align-items: flex-end;
+    column-gap: 48px;
+}
+a{
+    color: #FFF;
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.hero{
+    margin-top: 11px;
+}
